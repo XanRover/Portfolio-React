@@ -1,0 +1,17 @@
+.Text li{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.Text li a{
+    color: #fff;
+}
+.Text li a:hover{
+    color: rgb(0, 0, 248);
+}
+
+.Text button:hover{
+    background-color: #fff;
+    border: 2px solid rgba(89, 53, 161, 0.299);
+}

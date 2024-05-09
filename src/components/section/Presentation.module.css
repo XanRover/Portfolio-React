@@ -1,0 +1,26 @@
+.about{
+  text-align: left;
+  padding-top: 5%;
+  padding-left: 10%;
+  color: #fff;
+  font-family: Inter;
+}
+
+h4 {
+  font-weight: 700;
+  line-height: 35.1px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 94.4px;
+}
+
+p {
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 35.1px;
+}
+

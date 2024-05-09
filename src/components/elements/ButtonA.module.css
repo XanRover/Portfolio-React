@@ -1,0 +1,20 @@
+.btn {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 35.1px;
+  text-align: center;
+  align-items: center;
+  background: #74fac0;
+  width: 200PX;
+  height: 50px;
+  border-radius: 15px;
+  color: #000; 
+}
+
+.btn:hover {
+  background: rgb(11, 11, 36);
+  color: aliceblue;
+  transform: translateY(-7px);
+  transition: transform 0.8s;
+}
