@@ -9,7 +9,7 @@ Para visualizar o projeto em seu ambiente local, siga os passos abaixo:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/XanRove/Portfolio-React.git
+git clone https://github.com/XanRover/Portfolio-React
 
 cd nome-do-repositorio
 npm install
