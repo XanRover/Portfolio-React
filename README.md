@@ -11,7 +11,8 @@ Para visualizar o projeto em seu ambiente local, siga os passos abaixo:
 ```bash
 git clone https://github.com/XanRover/Portfolio-React
 
-cd nome-do-repositorio
+cd Portfolio-React-master
+
 npm install
 
 npm start
