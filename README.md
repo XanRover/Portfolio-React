@@ -22,7 +22,7 @@ Faça o download do arquivo zip do portfólio.
 
 - HTML
 - CSS (Bootstrap)
-- JavaScript (Fetch API)
+- JavaScript (React com useState para gerenciamento de estado)
 
 ## Sobre o Projeto
 
