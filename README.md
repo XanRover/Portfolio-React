@@ -9,10 +9,10 @@ Para visualizar o projeto em seu ambiente local, siga os passos abaixo:
 1. Clone este repositório:
 
 Faça o download do arquivo zip do portfólio.
-1 - Extraia o arquivo
-2 - Abre o VsCode já com o React instalado
-3 - Abre a pasta Portfolio-React-master
-4 - Abra um novo terminal no VsCode e digite os seguintes comandos
+1. - Extraia o arquivo
+2. - Abre o VsCode já com o React instalado
+3. - Abre a pasta Portfolio-React-master
+4. - Abra um novo terminal no VsCode e digite os seguintes comandos
 
 - npm install
 
