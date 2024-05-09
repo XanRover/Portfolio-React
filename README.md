@@ -1,4 +1,4 @@
-# Meu Portfólio em React
+## Meu Portfólio em React
 
 Este é o meu portfólio pessoal, desenvolvido utilizando React, onde apresento alguns dos meus projetos de desenvolvimento web, incluindo trabalhos realizados dentro e fora do curso de Desenvolvimento Web Full-Stack (DNC).
 
@@ -14,6 +14,16 @@ Faça o download do arquivo zip do portfólio.
 3 - Abre a pasta Portfolio-React-master
 4 - Abra um novo terminal no VsCode e digite os seguintes comandos
 
-npm install
+- npm install
 
-npm start
+- npm start
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS (Bootstrap)
+- JavaScript (Fetch API)
+
+## Sobre o Projeto
+
+Este portfólio foi criado para demonstrar minha experiência e habilidades em desenvolvimento web. Sinta-se à vontade para explorar os diferentes projetos e me conectar se tiver interesse em colaborar ou saber mais sobre meu trabalho.
